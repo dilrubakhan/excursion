@@ -1,13 +1,27 @@
 body{
     background-color: black;
 }
+a{
+    color: #3DEFD4;
+}
 
-h1{
-    color: blanchedalmond;
+h1, h2{
+    color: white;
     font-size: .5in;
     text-align: center;
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 .container{
     text-align: center;
+}
+p{
+    color: whitesmoke;
+    font-size: 25px;
+}
+.tant{
+    width: 70%;
+}
+.copywrite{
+    text-align: right;
+    color: rgb(114, 106, 106);
 }
